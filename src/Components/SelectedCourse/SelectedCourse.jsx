@@ -2,7 +2,7 @@
 const SelectedCourse = ({select}) => {
     const {name}=select;
     return (
-        <div>
+        <div className="text-xl">
            <li>{name}</li>
         </div>
     );

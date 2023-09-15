@@ -1,93 +1,92 @@
 [
-    {
-      "id": 1,
-      "name": "Introduction to C++ ",
-      "img": "https://i.ibb.co/hy808Ht/Rectangle-5.png",
-      "credit_hour": 5,
-      "title": "Introduction to C Programming",
-      "price": 299,
-      "description": "Learn the fundamentals of C++ with this course. Dive into the world of coding and build your first programs.",
-      "instructor": "Jhankar Mahbub"
-    },
-    {
-      "id": 2,
-      "name": "Introduction to Data Structure",
-      "img": "https://i.ibb.co/rM3H61M/Rectangle-8.png",
-      "credit_hour": 4,
-      "title": "Data Science Fundamentals",
-      "price": 449,
-      "description": "Explore the essential concepts and techniques of Algorithms, including OOP,Data Structures and Algorithms.",
-      "instructor": "Gias Uddin"
-    },
-    {
-      "id": 3,
-      "name": "Introduction to C for DSA",
-      "img": "https://i.ibb.co/HYB9Wy3/Rectangle-3.png",
-      "credit_hour": 5,
-      "title": "Web Development Bootcamp",
-      "price": 599,
-      "description": "Become a proficient problem solver through this intensive bootcamp. Learn problem solvings and more.",
-      "instructor": "Rokibul Rokib"
-    },
-    {
-      "id": 4,
-      "name": "Basic Algorithms",
-      "img": "https://i.ibb.co/ysL9QxY/Rectangle-4.png",
-      "credit_hour": 3,
-      "title": "Marketing 2.0",
-      "price": 349,
-      "description": "Master the Basic Algorithms and techniques to grow your online presence and reach your target audience.",
-      "instructor": "Mir Jakaria"
-    },
-    {
-      "id": 5,
-      "name": "Introduction to OOP Python",
-      "img": "https://i.ibb.co/CsDzLjT/Rectangle-1.png",
-      "credit_hour": 10,
-      "title": "Design Basics",
-      "price": 249,
-      "description": "Start your journey in Python with this beginner-friendly course. Learn django, software tools, and more.",
-      "instructor": "Mahedy Linkon"
-    },
-    {
-      "id": 6,
-      "name": "Software Engineering",
-      "img": "https://i.ibb.co/b1Dg0QS/Rectangle-6.png",
-      "credit_hour": 4,
-      "title": "Excel Pro",
-      "price": 199,
-      "description": "Unlock the full potential of Software Engineering with advanced techniques. Become a software expert.",
-      "instructor": "Awlad Hossain"
-    },
-    {
-      "id": 7,
-      "name": "Problem-Solving Part",
-      "img": "https://i.ibb.co/jVtrgJX/Rectangle-7.png",
-      "credit_hour": 4,
-      "title": "AWS, Cloud Computing",
-      "price": 449,
-      "description": "Hone your creative problem solving skills in this workshop. Explore various coding problems and develop your unique voice.",
-      "instructor": "Faisal Rahman"
-    },
-    {
-      "id": 8,
-      "name": "Database (MySQL)",
-      "img": "https://i.ibb.co/T8MxPGC/Rectangle-2.png",
-      "credit_hour": 3,
-      "title": "Financial Mastery",
-      "price": 349,
-      "description": "Gain expertise in Database. Learn database analysis, budgeting, and more.",
-      "instructor": "MD Yeasin"
-    },
-    {
-      "id": 9,
-      "name": "AWS, Cloud Computing",
-      "img": "https://i.ibb.co/HHdzgMz/Rectangle-9.png",
-      "credit_hour": 7,
-      "title": "Writing Pro",
-      "price": 249,
-      "description": "Discover the fundamentals AWS, including Cloud Computing and Amazon applications.",
-      "instructor": "Hasib Imam"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Introduction to C++ ",
+    "img": "https://i.ibb.co/hy808Ht/Rectangle-5.png",
+    "credit_hour": 5,
+    "title": "Introduction to C Programming",
+    "price": 299,
+    "description": "Learn the fundamentals of C++ with this course. Dive into the world of coding and build your first programs.",
+    "instructor": "Jhankar Mahbub"
+  },
+  {
+    "id": 2,
+    "name": "Introduction to Data Structure",
+    "img": "https://i.ibb.co/rM3H61M/Rectangle-8.png",
+    "credit_hour": 4,
+    "title": "Data Science Fundamentals",
+    "price": 449,
+    "description": "Explore the essential concepts and techniques of Algorithms, including OOP,Data Structures and Algorithms.",
+    "instructor": "Gias Uddin"
+  },
+  {
+    "id": 3,
+    "name": "C Programming for DSA",
+    "img": "https://i.ibb.co/HYB9Wy3/Rectangle-3.png",
+    "credit_hour": 5,
+    "title": "Web Development Bootcamp",
+    "price": 599,
+    "description": "Become a proficient problem solver through this intensive bootcamp. Learn problem solvings and more.",
+    "instructor": "Rokibul Rokib"
+  },
+  {
+    "id": 4,
+    "name": "Basic Algorithms",
+    "img": "https://i.ibb.co/ysL9QxY/Rectangle-4.png",
+    "credit_hour": 3,
+    "title": "Marketing 2.0",
+    "price": 349,
+    "description": "Master the Basic Algorithms and techniques to grow your online presence and reach your target audience.",
+    "instructor": "Mir Jakaria"
+  },
+  {
+    "id": 5,
+    "name": "Introduction to OOP Python",
+    "img": "https://i.ibb.co/CsDzLjT/Rectangle-1.png",
+    "credit_hour": 10,
+    "title": "Design Basics",
+    "price": 249,
+    "description": "Start your journey in Python with this beginner-friendly course. Learn django, software tools, and more.",
+    "instructor": "Mahedy Linkon"
+  },
+  {
+    "id": 6,
+    "name": "Software Engineering",
+    "img": "https://i.ibb.co/b1Dg0QS/Rectangle-6.png",
+    "credit_hour": 4,
+    "title": "Excel Pro",
+    "price": 199,
+    "description": "Unlock the full potential of Software Engineering with advanced techniques. Become a software expert.",
+    "instructor": "Awlad Hossain"
+  },
+  {
+    "id": 7,
+    "name": "Problem-Solving Part",
+    "img": "https://i.ibb.co/jVtrgJX/Rectangle-7.png",
+    "credit_hour": 4,
+    "title": "AWS, Cloud Computing",
+    "price": 449,
+    "description": "Hone your creative problem solving skills in this workshop. Explore various coding problems and develop your unique voice.",
+    "instructor": "Faisal Rahman"
+  },
+  {
+    "id": 8,
+    "name": "Database (MySQL)",
+    "img": "https://i.ibb.co/T8MxPGC/Rectangle-2.png",
+    "credit_hour": 3,
+    "title": "Financial Mastery",
+    "price": 349,
+    "description": "Gain expertise in Database. Learn database analysis, budgeting, and more.Also gain experience with distributed database.",
+    "instructor": "MD Yeasin"
+  },
+  {
+    "id": 9,
+    "name": "AWS, Cloud Computing",
+    "img": "https://i.ibb.co/HHdzgMz/Rectangle-9.png",
+    "credit_hour": 7,
+    "title": "Writing Pro",
+    "price": 249,
+    "description": "Discover the fundamentals AWS, including Cloud Computing and Amazon applications.It helps to build sophisticated applications.",
+    "instructor": "Hasib Imam"
+  }
+]

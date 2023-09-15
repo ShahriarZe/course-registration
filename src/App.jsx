@@ -16,7 +16,7 @@ function App() {
     let count = course.credit_hour;
     if (isSelected) {
       toast.error('Course Already Added!', {
-        position: 'top-center'
+        position: 'top-left'
       });
     }
     else {
@@ -26,7 +26,7 @@ function App() {
       });
       // ---Remaining Hour---
       const remainigHour = 20 - count;
-      if (count > 20) {
+      if (count > 20 || remainigHour < 0) {
         return toast.error('Credit Limit Crossed!', {
           position: 'top-right'
         });
@@ -40,7 +40,7 @@ function App() {
   return (
     <>
       <Header></Header>
-      <div className='flex mx-auto mt-10'>
+      <div className='flex flex-col lg:flex-row mx-auto mt-10'>
         <Courses handleSelect={handleSelect}></Courses>
         <CourseCart
           selectedCourse={selectedCourse}

@@ -11,7 +11,7 @@ const Courses = ({handleSelect}) => {
         .then(data=>setCourses(data))
     },[])
     return (
-        <div className="grid grid-cols-3 gap-5 mt-5 w-3/4">
+        <div className="grid grid-cols-3 gap-5 mt-5 w-3/4 ml-10">
             {
                 courses.map(course => <Course key={course.id}
                     handleSelect={handleSelect} course={course}></Course>)

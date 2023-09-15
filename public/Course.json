@@ -1,18 +1,18 @@
 [
     {
       "id": 1,
-      "name": "Introduction to Programming",
-      "img": "https://i.ibb.co/CsDzLjT/Rectangle-1.png",
+      "name": "Introduction to C++ ",
+      "img": "https://i.ibb.co/hy808Ht/Rectangle-5.png",
       "credit_hour": 3,
       "title": "Introduction to C Programming",
       "price": 299,
-      "description": "Learn the fundamentals of C programming with this course. Dive into the world of coding and build your first programs.",
+      "description": "Learn the fundamentals of C++ with this course. Dive into the world of coding and build your first programs.",
       "instructor": "Jhankar Mahbub"
     },
     {
       "id": 2,
-      "name": "Introduction to Algorithms",
-      "img": "https://i.ibb.co/T8MxPGC/Rectangle-2.png",
+      "name": "Introduction to Data Structure",
+      "img": "https://i.ibb.co/rM3H61M/Rectangle-8.png",
       "credit_hour": 4,
       "title": "Data Science Fundamentals",
       "price": 449,
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "name": "Introduction to C++ for DSA",
+      "name": "Introduction to C for DSA",
       "img": "https://i.ibb.co/HYB9Wy3/Rectangle-3.png",
       "credit_hour": 5,
       "title": "Web Development Bootcamp",
@@ -31,18 +31,18 @@
     },
     {
       "id": 4,
-      "name": "Basic Data Structures",
+      "name": "Basic Algorithms",
       "img": "https://i.ibb.co/ysL9QxY/Rectangle-4.png",
       "credit_hour": 3,
       "title": "Marketing 2.0",
       "price": 349,
-      "description": "Master the Basic Data Structures and techniques to grow your online presence and reach your target audience.",
+      "description": "Master the Basic Algorithms and techniques to grow your online presence and reach your target audience.",
       "instructor": "Mir Jakaria"
     },
     {
       "id": 5,
       "name": "Introduction to OOP Python",
-      "img": "https://i.ibb.co/hy808Ht/Rectangle-5.png",
+      "img": "https://i.ibb.co/CsDzLjT/Rectangle-1.png",
       "credit_hour": 2,
       "title": "Design Basics",
       "price": 249,
@@ -72,7 +72,7 @@
     {
       "id": 8,
       "name": "Database (MySQL)",
-      "img": "https://i.ibb.co/rM3H61M/Rectangle-8.png",
+      "img": "https://i.ibb.co/T8MxPGC/Rectangle-2.png",
       "credit_hour": 3,
       "title": "Financial Mastery",
       "price": 349,

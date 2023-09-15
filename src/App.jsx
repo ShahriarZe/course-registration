@@ -9,8 +9,8 @@ import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   const [selectedCourse, setSelectedCourse] = useState([]);
-  const [totalCredit,setTotalCredit]=useState(0)
-  const [remainig,setRemaining]=useState(20)
+  const [totalCredit, setTotalCredit] = useState(0)
+  const [remainig, setRemaining] = useState(20)
   const handleSelect = course => {
     const isSelected = selectedCourse.find(item => item.id === course.id);
     let count = course.credit_hour;
@@ -26,9 +26,15 @@ function App() {
       });
       // ---Remaining Hour---
       const remainigHour = 20 - count;
-      setTotalCredit(count)
-      setRemaining(remainigHour);
-      setSelectedCourse([...selectedCourse, course])
+      if (count > 20) {
+        return toast.error('Credit Limit Crossed!', {
+          position: 'top-right'
+        });
+      } else {
+        setTotalCredit(count);
+        setRemaining(remainigHour);
+        setSelectedCourse([...selectedCourse, course])
+      }
     }
   }
   return (
